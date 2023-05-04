@@ -1,0 +1,17 @@
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.favt{
+    font-size: 200%;
+    color: yellow;
+}
+
+.imgs{
+    width: 80px;
+    height: 80px;
+}
